@@ -2,7 +2,7 @@
 
 <h1>
   My name is Prasad Vennam, <br> 
-  Mobile Developer • Android • iOS • Kotlin • Dart • Flutter • Room • MVVM  
+  Mobile Developer • Android • iOS • Kotlin • Dart • Flutter 
 </h1>
 
 <h3>
