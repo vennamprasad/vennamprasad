@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <h1>
-  My name is Dilip Suthar, <br> 
-  Mobile Developer • Android • ReactNative • JS/TS
+  My name is Prasad Vennam, <br> 
+  Mobile Developer • Android • iOS • Koltin 
 </h1>
 
 <h3>
