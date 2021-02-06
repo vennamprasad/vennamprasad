@@ -20,6 +20,7 @@
 - 📫 How to reach me **vennamprasad@gmail.com**
 
 - ⚡ Fun fact **I love to play Multiplayer video games**
+- Selecting colors is for app theme is easy,check it :white_check_mark: https://play.google.com/store/apps/details?id=com.linpack.colors.material (edited) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
