@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vennamprasad" alt="vennamprasad" /></a> </p>
 
-- 🔭 I’m currently working on [MVVM-Dictionary](https://github.com/vennamprasad/Dictionary-Abbrevitaions)
+- 🔭 I’m currently working on [KMM-TMDB](https://github.com/vennamprasad/TheMovieDatabase-KMM-Common-UI-Business-Logic-Implementation)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **KMM-Android-iOS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vennamprasad/](https://github.com/vennamprasad/)
 
