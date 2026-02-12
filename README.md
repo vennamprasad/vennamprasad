@@ -1,56 +1,72 @@
 <h1 align="center">Hi 👋, I'm Prasad Vennam</h1>
-<h3 align="center">Senior Android Engineer | Kotlin • Jetpack Compose • Scalable Mobile Architectures</h3>
+<h3 align="center">Senior Android Engineer | Kotlin & Jetpack Compose Specialist</h3>
+
+<p align="center">
+Building scalable, high-performance Android applications with clean architecture and modern tooling.
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Senior Android Engineer with 9+ years of experience** building high-performance, scalable, and user-centric mobile applications.  
-I specialize in turning complex product requirements into smooth, reliable, and maintainable Android solutions.
-
-I love solving real-world problems around:
-
-- ⚡ Performance optimization  
-- 🧠 Clean & scalable architecture  
-- 🎨 Modern UI with Jetpack Compose  
-- 🔄 Asynchronous and reactive programming  
-- 📱 Crafting seamless user experiences  
+- 🚀 **Senior Android Engineer** with **9+ years** of experience building production-grade mobile applications  
+- 🧠 Strong focus on **Clean Architecture, performance optimization, and scalable UI systems**
+- 📱 Hands-on with **Jetpack Compose**, legacy View systems, and hybrid setups
+- 🏗️ Experience across **e-commerce, media streaming, fintech, and social platforms**
+- 🌱 Actively sharing knowledge and building reusable Android foundations
 
 ---
 
-## 💼 What I Do Best
+## 🔗 Portfolio & Writing
 
-✔ Build production-ready Android apps using **Kotlin & Java**  
-✔ Architect apps using **Clean Architecture, MVVM, and MVI**  
-✔ Develop scalable UI using **Jetpack Compose**  
-✔ Optimize apps for **performance, memory, and rendering**  
-✔ Implement robust networking & offline strategies  
-✔ Write testable, maintainable, and modular code  
+- 💻 **Projects**: [https://github.com/vennamprasad](https://github.com/vennamprasad)
+- 📝 **Articles & Experiments**: [https://github.com/vennamprasad](https://github.com/vennamprasad)
+- 📄 **Professional Experience**:  
+  [https://bold.pro/my/prasad-vennam-230626163347](https://bold.pro/my/prasad-vennam-230626163347)
 
 ---
 
-## 🛠 Tech Stack
+## 💬 Ask Me About
+
+- Android SDK internals
+- Kotlin (Coroutines, Flow, DSLs)
+- Jetpack Compose & UI architecture
+- App performance, memory optimization & debugging
+- Interview preparation for Android engineers
+
+---
+
+## 📫 Reach Me
+
+- 📧 Email: **vennamprasad@gmail.com**
+- 💼 LinkedIn:  
+  <a href="https://www.linkedin.com/in/prasad-vennam-a605a1a2/" target="_blank">
+    linkedin.com/in/prasad-vennam
+  </a>
+
+---
+
+## 🛠️ Languages & Tools
 
 ### 📱 Mobile Development
 - Android (Kotlin, Java)
 - Jetpack Compose
-- Flutter (cross-platform exposure)
+- Flutter
 
-### 🏗 Architecture & Patterns
-- MVVM, MVI, Clean Architecture
-- Modularization & Multi-module setup
-- Repository Pattern
+### 🏗️ Architecture & Design
+- MVVM, Clean Architecture, MVI
+- Modularization & Multi-module setups
 
 ### 🔄 Async & State Management
 - Kotlin Coroutines
-- Flow / StateFlow / SharedFlow
+- Flow
 - LiveData
 
 ### 🎨 UI & Performance
 - Compose UI
 - Custom Views
-- Rendering performance tuning
-- Memory optimization
+- Memory Optimization
+- Rendering & Performance Profiling
 
 ### 🌐 Networking
 - Retrofit
@@ -68,8 +84,8 @@ I love solving real-world problems around:
 - Firebase
 - SQL
 
-### 📦 Jetpack Libraries
-- Navigation Component
+### 🧱 Jetpack Libraries
+- Navigation
 - Paging 3
 - WorkManager
 - DataStore
@@ -78,56 +94,25 @@ I love solving real-world problems around:
 - JUnit
 - Mockito
 - MockK
-- Cucumber (UI testing)
+- Cucumber
 
-### ⚙ CI/CD & DevOps
+### ⚙️ CI/CD & DevOps
 - Jenkins
 - GitHub Actions
 - Fastlane
-- YAML pipelines
+- YAML
 
 ### 📊 Monitoring & Quality
 - Firebase Crashlytics
-- Performance Profiling
+- Performance Monitoring
 - SonarQube
 
-### 🧰 Tools
-- Git, Bitbucket, GitLab  
-- Jira, Confluence  
+### 🔧 Tools
+- Git, GitHub, Bitbucket, GitLab
+- Jira, Confluence
 
 ---
 
-## 📂 Projects & Work
-
-🔗 Explore my repositories:  
-👉 https://github.com/vennamprasad/
-
-I regularly work on:
-- Production Android apps  
-- Architecture samples  
-- Performance improvements  
-- Clean code examples  
-
----
-
-## 🧠 Ask Me About
-
-`Android SDK` • `Kotlin` • `Java` • `Jetpack Compose` • `Architecture` • `Performance`
-
----
-
-## 📄 Experience
-
-📌 Full profile:  
-https://bold.pro/my/prasad-vennam-230626163347
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/prasad-vennam-a605a1a2/  
-- Email: **vennamprasad@gmail.com**
-
----
-
-⭐ *Always learning. Always improving. Always building better mobile experiences.*
+<p align="center">
+✨ Always learning. Always building. Always improving Android experiences.
+</p>
