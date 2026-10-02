@@ -66,13 +66,29 @@ I'm the author of [**DevCrack**](https://github.com/vennamprasad/awesome-mobile-
 
 ---
 
-<!-- FEATURED PROJECT -->
+<!-- PROJECTS — All public repos from the last 2 years -->
+
+### 🚀 Projects & Open Source
 
 <div align="center">
 
 [![DevCrack](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=awesome-mobile-interviews&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/awesome-mobile-interviews)
+[![TODO-Plus](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=TODO-Plus&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/TODO-Plus)
 
-**[DevCrack](https://github.com/vennamprasad/awesome-mobile-interviews)** — 4 stacks · 200+ companies · 15+ system designs · L1 to Staff · 100% free
+[![Android-CICD](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=Android-CICD&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/Android-CICD)
+[![ComposeThemeKit](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=ComposeThemeKit&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/ComposeThemeKit)
+
+[![DeskGuard](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=DeskGuard&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/DeskGuard)
+[![MovieVerse-TMDB](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=MovieVerse-TMDB&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/MovieVerse-TMDB)
+
+[![JsonPro](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=JsonPro&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/JsonPro)
+[![kidsTypo](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=kidsTypo&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/kidsTypo)
+
+[![KMM-Native-UI](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=KMM-Native-UI-Common-Logic-Movie-TMDB&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/KMM-Native-UI-Common-Logic-Movie-TMDB)
+[![KMM-Common-UI](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=TheMovieDatabase-KMM-Common-UI-Business-Logic-Implementation&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/TheMovieDatabase-KMM-Common-UI-Business-Logic-Implementation)
+
+[![dev_vid](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=dev_vid&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/dev_vid)
+[![AGSL](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=AGSL&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/AGSL)
 
 </div>
 
