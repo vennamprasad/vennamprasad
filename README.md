@@ -1,117 +1,170 @@
+<!-- markdownlint-disable MD033 -->
+
 <div align="center">
-  
-<!-- HEADER -->
+
+<!-- HEADER ANIMATION -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D56&height=220&section=header&text=Prasad%20Vennam&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Senior%20Mobile%20Engineer%20%E2%80%A2%20System%20Design%20Architect&descSize=16&descAlignY=55&descColor=E0E0E0&animation=fadeIn" width="100%" />
 
-<!-- SOCIAL LINKS -->
+<!-- DYNAMIC TYPING SUBTITLE -->
+<a href="https://github.com/vennamprasad">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=6C63FF&center=true&vCenter=true&width=650&lines=Senior+Mobile+Engineer+(Android+%26+iOS);Clean+Multi-Module+Architecture+%26+System+Design;Creator+of+DevCrack+%E2%80%A2+Mobile+Engineering+Handbook;Jetpack+Compose+%E2%80%A2+SwiftUI+%E2%80%A2+KMP+%E2%80%A2+Flutter" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- QUICK BADGES / CONNECT -->
 <p>
-<a href="https://github.com/sponsors/vennamprasad"><img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=flat&logo=github-sponsors&logoColor=white" /></a>
-<a href="https://buymeacoffee.com/prasadvennam"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black" /></a>
-<a href="https://www.linkedin.com/in/prasad-vennam-a605a1a2/"><img src="https://img.shields.io/badge/-Prasad_Vennam-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/vennamprasad"><img src="https://img.shields.io/badge/-@vennamprasad-1DA1F2?style=flat&logo=x&logoColor=white" /></a>
-<a href="mailto:vennamprasad@gmail.com"><img src="https://img.shields.io/badge/-vennamprasad@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://bold.pro/my/prasad-vennam-230626163347"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=vennamprasad&style=flat&color=6C63FF&label=Profile+Views" />
+  <a href="https://www.linkedin.com/in/prasad-vennam-a605a1a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://bold.pro/my/prasad-vennam-230626163347"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="mailto:vennamprasad@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://twitter.com/vennamprasad"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  &nbsp;
+  <a href="https://github.com/sponsors/vennamprasad"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor" /></a>
+  &nbsp;
+  <a href="https://buymeacoffee.com/prasadvennam"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vennamprasad&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 </div>
 
-<!-- BIO -->
+---
 
-I'm a **Senior Mobile Engineer** with **9+ years** building production-scale Android, iOS, and cross-platform applications across e-commerce, fintech, media streaming, and social platforms. I specialize in **clean multi-module architecture**, **distributed mobile system design**, and **performance engineering**.
+### 👨‍💻 About Me
 
-I'm the author of [**DevCrack**](https://github.com/vennamprasad/awesome-mobile-interviews) — the open-source mobile engineering handbook with 200+ company interview banks trusted by thousands of developers worldwide.
+I'm a **Senior Mobile Engineer & System Architect** with **9+ years** of experience engineering high-scale, resilient mobile platforms across **FinTech, E-Commerce, Media Streaming, and Social Ecosystems**. 
+
+- 🏛️ **Architecture First:** Specializing in scalable multi-module architectures, offline-first sync pipelines, and distributed mobile system design.
+- ⚡ **Performance Engineering:** Deep expertise in startup time optimization, memory leak mitigation, ANR diagnostics, and smooth 60/120fps UI rendering.
+- 🌐 **Modern Frameworks:** Extensive production work across native **Android (Kotlin/Compose)**, **iOS (Swift/SwiftUI)**, and cross-platform stacks (**KMP / Flutter**).
+- 📖 **Community & Mentorship:** Author of **DevCrack**, mentoring engineers and speaking on mobile system design and concurrency.
 
 ---
 
-<!-- TECH STACK — Compact Grid -->
+### 🌟 Flagship Project: DevCrack
 
-<table>
-<tr><td valign="top" width="33%">
+<div align="center">
 
-**📱 Mobile & UI**
+<a href="https://github.com/vennamprasad/awesome-mobile-interviews">
+  <img src="https://raw.githubusercontent.com/vennamprasad/awesome-mobile-interviews/main/assets/banner.png" width="100%" alt="DevCrack Banner" />
+</a>
 
+<br/><br/>
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/vennamprasad/awesome-mobile-interviews?style=social)](https://github.com/vennamprasad/awesome-mobile-interviews/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/vennamprasad/awesome-mobile-interviews?style=social)](https://github.com/vennamprasad/awesome-mobile-interviews/network/members)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-EA4AAA?style=social&logo=github-sponsors)](https://github.com/sponsors/vennamprasad)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=social&logo=buy-me-a-coffee)](https://buymeacoffee.com/prasadvennam)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/vennamprasad/awesome-mobile-interviews)
+
+<br/>
+
+**The definitive open-source engineering handbook, distributed system design vault, and interview playbook for Android, iOS, Flutter, and React Native developers worldwide.**
+
+<p>
+  📱 <b>200+ Company Question Banks</b> • 📐 <b>Distributed Mobile System Design</b> • ⚡ <b>Concurrency & Performance</b>
+</p>
+
+[**👉 Explore DevCrack on GitHub**](https://github.com/vennamprasad/awesome-mobile-interviews)
+
+</div>
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+#### 📱 Mobile & UI Engineering
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-</td><td valign="top" width="33%">
-
-**🏗️ Architecture & Backend**
-
-![Clean Arch](https://img.shields.io/badge/Clean_Architecture-0D47A1?style=flat-square&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-00897B?style=flat-square&logoColor=white)
-![MVI](https://img.shields.io/badge/MVI-6A1B9A?style=flat-square&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=flat-square&logo=google&logoColor=white)
-![Room](https://img.shields.io/badge/Room-3DDC84?style=flat-square&logo=android&logoColor=white)
+#### 🏛️ Architecture, Core & Data
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0D47A1?style=flat-square&logoColor=white)
+![MVI / MVVM](https://img.shields.io/badge/MVI_--_MVVM-6A1B9A?style=flat-square&logoColor=white)
+![Kotlin Coroutines & Flow](https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-F05138?style=flat-square&logo=swift&logoColor=white)
+![Hilt / Dagger](https://img.shields.io/badge/Hilt_%2F_Dagger-4285F4?style=flat-square&logo=google&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room_DB-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-</td><td valign="top" width="33%">
-
-**⚙️ Testing & DevOps**
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+#### ⚙️ Testing, Tooling & DevOps
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![MockK](https://img.shields.io/badge/MockK-7F52FF?style=flat-square&logoColor=white)
 ![Espresso](https://img.shields.io/badge/Espresso-3DDC84?style=flat-square&logo=android&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=flat-square&logo=fastlane&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
-</td></tr>
-</table>
+</div>
 
 ---
 
-<!-- PROJECTS — All public repos from the last 2 years -->
-
-### 🚀 Projects & Open Source
+### 🚀 Featured Projects
 
 <div align="center">
 
-[![DevCrack](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=awesome-mobile-interviews&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/awesome-mobile-interviews)
-[![TODO-Plus](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=TODO-Plus&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/TODO-Plus)
+| Project | Description | Tech Stack |
+|:---|:---|:---:|
+| [**DevCrack**](https://github.com/vennamprasad/awesome-mobile-interviews) | Comprehensive mobile engineering handbook & 190+ company interview banks. | `System Design` `Android` `iOS` |
+| [**DeskGuard**](https://github.com/vennamprasad/DeskGuard) | Covert Wi-Fi RF disturbance radar & physical anti-tamper perimeter with automated intruder capture. | `Kotlin` `Sensors` `Radar RF` |
+| [**ComposeScreenBuilder**](https://github.com/vennamprasad/ComposeScreenBuilder) | Full-stack Server-Driven UI (SDUI) builder with Studio and backend integration. | `Jetpack Compose` `Next.js` `NestJS` |
+| [**TODO-Plus**](https://github.com/vennamprasad/TODO-Plus) | Modern offline-first productivity app with reactive persistence and clean MVVM. | `Compose` `Room` `Clean MVVM` |
+| [**MovieVerse-TMDB**](https://github.com/vennamprasad/MovieVerse-TMDB) | Production-grade movie explorer featuring dynamic pagination and reactive state flow. | `Compose` `Hilt` `Paging 3` |
+| [**ComposeThemeKit**](https://github.com/vennamprasad/ComposeThemeKit) | Dynamic runtime theming engine with Material 3 palette transitions. | `Jetpack Compose` `Material 3` |
 
-[![Android-CICD](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=Android-CICD&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/Android-CICD)
-[![ComposeThemeKit](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=ComposeThemeKit&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/ComposeThemeKit)
+<br/>
 
-[![DeskGuard](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=DeskGuard&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/DeskGuard)
-[![MovieVerse-TMDB](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=MovieVerse-TMDB&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/MovieVerse-TMDB)
-
-[![JsonPro](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=JsonPro&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/JsonPro)
-[![kidsTypo](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=kidsTypo&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/kidsTypo)
-
-[![KMM-Native-UI](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=KMM-Native-UI-Common-Logic-Movie-TMDB&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/KMM-Native-UI-Common-Logic-Movie-TMDB)
-[![KMM-Common-UI](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=TheMovieDatabase-KMM-Common-UI-Business-Logic-Implementation&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/TheMovieDatabase-KMM-Common-UI-Business-Logic-Implementation)
-
-[![dev_vid](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=dev_vid&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/dev_vid)
-[![AGSL](https://github-readme-stats.vercel.app/api/pin/?username=vennamprasad&repo=AGSL&theme=tokyonight&hide_border=true&border_radius=12)](https://github.com/vennamprasad/AGSL)
+<a href="https://github.com/vennamprasad?tab=repositories">
+  <img src="https://img.shields.io/badge/📂_View_All_70+_Repositories-6C63FF?style=for-the-badge" alt="View All Repos" />
+</a>
 
 </div>
 
 ---
 
-<!-- STATS — Tight 2-column -->
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vennamprasad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&hide_title=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vennamprasad&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vennamprasad&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&rank_icon=github" alt="GitHub Stats" />
+&nbsp;
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vennamprasad&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vennamprasad&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6" alt="Top Languages" />
+
 </div>
 
 ---
-
-<!-- ASK ME ABOUT — Single line items -->
 
 ### 💬 Ask Me About
 
-`Android Internals` · `Kotlin Coroutines & Flow` · `Jetpack Compose` · `Swift Concurrency` · `SwiftUI` · `Mobile System Design` · `Offline-First Architecture` · `App Performance & ANRs` · `Interview Prep` · `Salary Negotiation`
+<div align="center">
+
+`Mobile System Design` • `Kotlin Coroutines & Flow` • `Jetpack Compose Internals` • `Swift Concurrency & Actors`  
+`Offline-First Sync` • `App Startup Optimization & ANRs` • `Multi-Module Architecture` • `Career & Interview Strategy`
+
+</div>
 
 ---
+
+<!-- FOOTER -->
 
 <div align="center">
 
