@@ -5,6 +5,7 @@
 
 <!-- SOCIAL LINKS -->
 <p>
+<a href="https://github.com/sponsors/vennamprasad"><img src="https://img.shields.io/badge/Sponsor_Me-EA4AAA?style=flat&logo=github-sponsors&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/prasad-vennam-a605a1a2/"><img src="https://img.shields.io/badge/-Prasad_Vennam-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/vennamprasad"><img src="https://img.shields.io/badge/-@vennamprasad-1DA1F2?style=flat&logo=x&logoColor=white" /></a>
 <a href="mailto:vennamprasad@gmail.com"><img src="https://img.shields.io/badge/-vennamprasad@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -113,6 +114,8 @@ I'm the author of [**DevCrack**](https://github.com/vennamprasad/awesome-mobile-
 
 <div align="center">
 
+<a href="https://github.com/sponsors/vennamprasad"><img src="https://img.shields.io/badge/💖_Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" /></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/prasad-vennam-a605a1a2/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="https://github.com/vennamprasad/awesome-mobile-interviews"><img src="https://img.shields.io/badge/⭐_Star_DevCrack-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
